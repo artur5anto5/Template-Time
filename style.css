@@ -3,3 +3,44 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+footer{
+    display: flex;
+    float: left;
+    background-color: gray;
+    width: 100%;
+}
+#matue{
+    margin-left: 5em;
+}
+#matueT{
+    margin-left: 4.5em;
+}
+#matueP{
+    margin-left: 5em;
+    text-align: justify;
+}
+#matueB{
+    margin-left: 6em;
+}
+footer button{
+    margin-left: 26.5em;
+    margin-top: 2em;
+    background-color: greenyellow;
+    border-radius: 5em;
+    height: 2em;
+    width: 6em;
+}
+footer p{
+    width: 350px;
+    margin-left: 22em;
+    margin-top: 2em;
+    text-align: justify;
+}
+footer h3{
+    margin-left: 19em;
+    margin-top: 2em;
+}
+footer img{
+    margin-left: 22em;
+    margin-top: 2em;
+}
