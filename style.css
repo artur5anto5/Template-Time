@@ -3,3 +3,12 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+header{
+    background-image: url("img/20b48d9-maxresdefault-1024x576.webp");
+    height: 40em;
+}
+header h1{
+    color: white;
+    text-align: center;
+    padding-top: 8em;
+}
